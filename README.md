@@ -1,6 +1,6 @@
 # [OmniFood](https://omnifood-alp.netlify.app/)
 
-Responsive static website for a fictitious company OmniFood,serving in the field of healthy nutrition
+Responsive static website for a fictitious company OmniFood,serving in the field of healthy nutrition [click here](https://omnifood-alp.netlify.app/) to visit website
 
 ### Technologies
 
